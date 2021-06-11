@@ -1,0 +1,8 @@
+Lev Haair
+https://www.yad2.co.il/realestate/rent/map?city=5000&neighborhood=1520&propertyGroup=apartments&price=-1-5000&z=14
+Kerem
+https://www.yad2.co.il/realestate/rent/map?city=5000&neighborhood=1521&propertyGroup=apartments&price=-1-5000&z=15
+Zafon
+https://www.yad2.co.il/realestate/rent/map?city=5000&neighborhood=1461&propertyGroup=apartments&price=-1-5000&z=13
+Karlibach
+https://www.yad2.co.il/realestate/rent/map?city=5000&neighborhood=1462&propertyGroup=apartments&price=-1-5000&z=15
